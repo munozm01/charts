@@ -40,7 +40,7 @@ extraEnvs: []
 
 master:
   config:
-    target-host: https://site.example.com
+    target-host: http://z1as195x.cw01.contiwan.com:32257/
   resources:
     limits:
       cpu: 100m
